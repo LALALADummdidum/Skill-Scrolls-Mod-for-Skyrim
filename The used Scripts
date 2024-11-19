@@ -1,0 +1,33 @@
+The following things are the scripts ive used for the effects:
+
+		Game.IncrementSkillBy("Block", Advancement)															                                                                                                 	 															
+		Game.IncrementSkillBy("HeavyArmor", Advancement)
+    Game.IncrementSkillBy("Smithing", Advancement) 		
+		Game.IncrementSkillBy("TwoHanded", Advancement)
+		Game.IncrementSkillBy("Marksman", Advancement)
+		Game.IncrementSkillBy("LightArmor", Advancement)
+		Game.IncrementSkillBy("Sneak", Advancement)
+		Game.IncrementSkillBy("Lockpicking", Advancement)
+		Game.IncrementSkillBy("Pickpocket", Advancement)
+		Game.IncrementSkillBy("Speechcraft", Advancement)
+		Game.IncrementSkillBy("Alchemy", Advancement)
+		Game.IncrementSkillBy("Illusion", Advancement)
+		Game.IncrementSkillBy("Conjuration", Advancement)
+		Game.IncrementSkillBy("Destruction", Advancement)
+		Game.IncrementSkillBy("Restoration", Advancement)
+		Game.IncrementSkillBy("Alteration", Advancement)
+		Game.IncrementSkillBy("Enchanting", Advancement)
+    Game.IncrementSkillBy("OneHanded", Advancement)
+    Game.IncrementSkillBy("Enchanting", Advancement)
+
+
+The scripts are just the following:
+
+Event OnEffectStart(Actor akTarget, Actor akCaster)
+
+Game.IncrementSkillBy("Enchanting", Advancement)
+	
+endEvent
+
+
+Advancement means how many levels it should go up. The script is supposed to be just copied under the "extends activemagiceffect" 
