@@ -31,3 +31,14 @@ endEvent
 
 
 Advancement means how many levels it should go up. The script is supposed to be just copied under the "extends activemagiceffect" 
+
+Event OnEffectStart(Actor akTarget, Actor akCaster)
+
+Game.IncrementSkillBy("Enchanting", 1)
+	
+endEvent
+
+The Script above should increase the Enchanting Skill by 1 Level.
+
+If I mean leveled up by one level, I mean that it levels just up like normally.
+Ive just extracted the scripts from the Oghma Infinium so theyre pretty easy to find. (I couldnt find them in any Wiki.)
