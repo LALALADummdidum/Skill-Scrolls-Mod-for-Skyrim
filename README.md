@@ -26,8 +26,7 @@ Level 5 Scrolls:
   
   Master Cultist
 
-
-Every Member of the dark Brotherhood except for Astrid. (The Members dont drop anything if they die during the Normal Dark Brotherhood Questline. They only drop if you side with the Penitus Oculatus.)
+  Every Member of the dark Brotherhood except for Astrid. (The Members dont drop anything if they die during the Normal Dark Brotherhood Questline. They only drop if you side with the Penitus Oculatus.)
 
 Level 10 Scrolls:
   Draugr Overlord
