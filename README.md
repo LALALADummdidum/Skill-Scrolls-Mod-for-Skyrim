@@ -1,5 +1,7 @@
 Im just going to write down the loottable of the Different Scrolls
 
+Note: I recommend looking at the raw file, It looks way better
+
 Level 1 Scrolls are supposed to be sold from different NPCs. Im adding them to the General Merchants for first.
 
 
