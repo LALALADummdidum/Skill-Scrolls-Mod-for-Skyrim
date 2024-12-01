@@ -34,4 +34,5 @@ Level 25 Scrolls:
   General Tullius
   Ulfric
   Dragon Priests (Miraak etc.)
+  Isran from the Dawnguard
   Lord Harkon
