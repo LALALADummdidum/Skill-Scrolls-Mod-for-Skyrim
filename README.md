@@ -11,6 +11,7 @@ A scroll is guaranteed from the following NPCs:
 Level 1 Scrolls:
 
   Dwarven Sphere
+  Trolls and Frost Trolls
 
 Level 5 Scrolls:
 
