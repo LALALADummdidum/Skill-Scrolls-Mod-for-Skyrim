@@ -21,7 +21,8 @@ Level 5 Scrolls:
   Imperial Officers (All the Normal Legates)
   Dwarven Centurion
   Briarheart
-  Master Cultist
+  Master Cultist (Dragonborn DLC)
+  Falmer Shadowmaster
   Every Member of the dark Brotherhood except for Astrid. (The Members dont drop anything if they die during the Normal Dark Brotherhood Questline. They only drop if you side with the Penitus Oculatus.)
 
 Level 10 Scrolls:
@@ -29,10 +30,14 @@ Level 10 Scrolls:
   Draugr Overlord
   Legat Rikke
   Astrid
+  Bandit Chief
+  Falmer Warmonger
+  Arch Cultist (Dragonborn DLC)
  
 Level 25 Scrolls:
   General Tullius
   Ulfric
   Dragon Priests (Miraak etc.)
   Isran from the Dawnguard
-  Lord Harkon
+  Lord Harkon (Dawnguard DLC)
+  Madanach, the Forsworn Chief
