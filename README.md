@@ -33,6 +33,7 @@ Level 10 Scrolls:
   Bandit Chief
   Falmer Warmonger
   Arch Cultist (Dragonborn DLC)
+  The different Members of the Silver Blood Family (Killable during the the Forsworn Conspiracy)
  
 Level 25 Scrolls:
   General Tullius
