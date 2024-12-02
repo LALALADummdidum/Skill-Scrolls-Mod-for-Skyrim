@@ -1,6 +1,7 @@
 Im just going to write down the loottable of the Different Scrolls
 
 Note: I recommend looking at the raw file, It looks way better
+As youll see The higher levels are being dropped by rare, hard or unique enemies.
 
 Level 1 Scrolls are supposed to be sold from different NPCs. Im adding them to the General Merchants for first.
 
@@ -38,6 +39,8 @@ Level 10 Scrolls:
   Revered and Serpentine Dragons from one DLC
   Borkul the Beast (Forsworn)
   Gaius Maro
+  Master Vampire
+ 
  
 Level 25 Scrolls:
   General Tullius
