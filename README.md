@@ -24,6 +24,7 @@ Level 5 Scrolls:
   Master Cultist (Dragonborn DLC)
   Falmer Shadowmaster
   Every Member of the dark Brotherhood except for Astrid. (The Members dont drop anything if they die during the Normal Dark Brotherhood Questline. They only drop if you side with the Penitus Oculatus.)
+  "Normal" Dragons (I was lazy and all of the use the same DeathItem LevelItemList)
 
 Level 10 Scrolls:
 
@@ -34,6 +35,8 @@ Level 10 Scrolls:
   Falmer Warmonger
   Arch Cultist (Dragonborn DLC)
   The different Members of the Silver Blood Family (Killable during the the Forsworn Conspiracy)
+  Revered and Serpentine Dragons from one DLC
+  Borkul the Beast (Forsworn)
  
 Level 25 Scrolls:
   General Tullius
@@ -42,3 +45,5 @@ Level 25 Scrolls:
   Isran from the Dawnguard
   Lord Harkon (Dawnguard DLC)
   Madanach, the Forsworn Chief
+  Legendary Dragons
+  Alduin
