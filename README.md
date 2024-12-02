@@ -37,6 +37,7 @@ Level 10 Scrolls:
   The different Members of the Silver Blood Family (Killable during the the Forsworn Conspiracy)
   Revered and Serpentine Dragons from one DLC
   Borkul the Beast (Forsworn)
+  Gaius Maro
  
 Level 25 Scrolls:
   General Tullius
@@ -47,3 +48,4 @@ Level 25 Scrolls:
   Madanach, the Forsworn Chief
   Legendary Dragons
   Alduin
+  Commander Maro
