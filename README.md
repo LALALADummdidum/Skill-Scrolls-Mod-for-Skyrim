@@ -42,7 +42,7 @@ Level 10 Scrolls:
   Borkul the Beast (Forsworn)
   Gaius Maro
   Master Vampire
- 
+  The Emperor Decoy (The one you poison)
  
 Level 25 Scrolls:
   General Tullius
@@ -54,3 +54,4 @@ Level 25 Scrolls:
   Legendary Dragons
   Alduin
   Commander Maro
+  The Emperor
