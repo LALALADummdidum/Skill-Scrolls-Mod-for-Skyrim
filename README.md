@@ -22,6 +22,7 @@ Level 5 Scrolls:
   Overlord
   Imperial Fort Commander
   Imperial Officers (All the Normal Legates)
+  All Stormcloak Commanders
   Dwarven Centurion
   Briarheart
   Master Cultist (Dragonborn DLC)
