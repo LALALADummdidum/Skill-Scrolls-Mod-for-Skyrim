@@ -1,3 +1,5 @@
+Note: The mod is finished, but Im going to upload it after ive tested it on someone elses Hardware to ensure that it works.
+
 Im just going to write down the loottable of the Different Scrolls
 
 Note: I recommend looking at the raw file, It looks way better
