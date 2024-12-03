@@ -53,5 +53,6 @@ Level 25 Scrolls:
   Madanach, the Forsworn Chief
   Legendary Dragons
   Alduin
+  Durnheviir
   Commander Maro
   The Emperor
