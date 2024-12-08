@@ -42,3 +42,35 @@ The Script above should increase the Enchanting Skill by 1 Level.
 
 If I mean leveled up by one level, I mean that it levels just up like normally.
 Ive just extracted the scripts from the Oghma Infinium so theyre pretty easy to find. (I couldnt find them in any Wiki.)
+
+Ive also used the following Scripts for the Mod Image:
+(Im really bad at graphics design so Ive programmed a bit in HTML and  then I did a Screenshot)
+
+The HTML Script:
+
+<html>
+	
+	<head>
+		<title>Skyrim Skill Scrolls Mod Page</title>
+		<link rel="stylesheet" href="format.css" type="text/css">
+	</head>
+	<body>
+	<br> <br>
+	 <h1>Skyrim Skill Scrolls Mod</h1>
+	</body>
+</html>
+
+
+The CSS Script:
+
+body{
+		background-color: black;
+		font-family: Courier New;
+		font-size:   500%; 
+		text-align:center;
+		color:	white;
+		align-items: center;
+		height: 100%;
+	}
+
+
