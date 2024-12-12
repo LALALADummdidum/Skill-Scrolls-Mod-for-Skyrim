@@ -19,7 +19,7 @@ Level 1 Scrolls:
 Level 5 Scrolls:
 
   Draugr Scourge Lord
-  Overlord
+  Draugr Overlord
   Imperial Fort Commander
   Imperial Officers (All the Normal Legates)
   All Stormcloak Commanders
@@ -32,7 +32,7 @@ Level 5 Scrolls:
 
 Level 10 Scrolls:
 
-  Draugr Overlord
+  Draugr Deathlord
   Legat Rikke
   Astrid
   Bandit Chief
