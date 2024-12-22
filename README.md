@@ -1,4 +1,4 @@
-Note: The mod is finished, but Im going to upload it after ive tested it on someone elses Hardware to ensure that it works.
+The mod is already uploaded, Im right now developing a SPID Version.
 
 Im just going to write down the loottable of the Different Scrolls
 
