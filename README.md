@@ -49,6 +49,7 @@ Level 25 Scrolls:
   General Tullius
   Ulfric
   Dragon Priests (Miraak etc.)
+  Miraaks Dragon (Sahrotaar)
   Isran from the Dawnguard
   Lord Harkon (Dawnguard DLC)
   Madanach, the Forsworn Chief
