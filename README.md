@@ -1,4 +1,4 @@
-The mod is already uploaded, Im right now developing a SPID Version.
+The Spid Version also has all the Scrolls not as a DeathItem, but as a normal Item. So you can also just pickpocket it. It wont respawn.
 
 Im just going to write down the loottable of the Different Scrolls
 
@@ -51,7 +51,6 @@ Level 25 Scrolls:
   Ulfric
   Dragon Priests (Miraak etc.)
   Miraaks Dragon (Sahrotaar)
-  Isran from the Dawnguard
   Lord Harkon (Dawnguard DLC)
   Madanach, the Forsworn Chief
   Legendary Dragons
