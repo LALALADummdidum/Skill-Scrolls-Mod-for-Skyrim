@@ -1,4 +1,4 @@
-The Spid Version also has all the Scrolls not as a DeathItem, but as a normal Item. So you can also just pickpocket it. It wont respawn.
+The Spid Version also has all the Scrolls not as a DeathItem, but as a normal Item. So you can also just pickpocket it. It wont respawn, it spawns with the NPC itself.
 
 Im just going to write down the loottable of the Different Scrolls
 
