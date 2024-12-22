@@ -44,6 +44,7 @@ Level 10 Scrolls:
   Gaius Maro
   Master Vampire (In the SPID Version (Still in Development) only the Volkihar Master Vampires Drop the Level 10 Scrolls.)
   The Emperor Decoy (The one you poison)
+  General Falx Carius (Solstheim)
  
 Level 25 Scrolls:
   General Tullius
