@@ -42,7 +42,7 @@ Level 10 Scrolls:
   Revered and Serpentine Dragons from one DLC
   Borkul the Beast (Forsworn)
   Gaius Maro
-  Master Vampire
+  Master Vampire (In the SPID Version (Still in Development) only the Volkihar Master Vampires Drop the Level 10 Scrolls.)
   The Emperor Decoy (The one you poison)
  
 Level 25 Scrolls:
