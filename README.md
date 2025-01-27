@@ -5,8 +5,14 @@ Im just going to write down the loottable of the Different Scrolls
 Note: I recommend looking at the raw file, It looks way better
 As youll see The higher levels are being dropped by rare, hard or unique enemies.
 
-Level 1 Scrolls are supposed to be sold from different NPCs. Im adding them to the General Merchants for first.
+Level 1 Scrolls are respawning and can be bought at: 
+All the General Merchants except for 
+Ahkari
+Falas-Selvyn
+Ma'dran
+Ri'saad
 
+A level 1 Smithing Scroll is also being sold by Alvor.
 
 A scroll is guaranteed from the following NPCs:
 
